@@ -1,1 +1,5 @@
-# Copia_aula_dados
+# Estudo de dados farmacêutico.
+
+
+Imersão de dados da alura.
+
