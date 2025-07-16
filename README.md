@@ -1,6 +1,7 @@
 
 
-# Copia Aula Dados @Imersão de Dados Alura 2021
+# Analise de dados relacionados à industria farmacêutica.
+ @Imersão de Dados Alura 2021
 
 Este repositório contém o código e os recursos desenvolvidos para as atividades de análise de dados durante as aulas de Data Science e programação em Python. O foco deste projeto é fornecer exemplos práticos e soluções para manipulação, análise e visualização de dados utilizando bibliotecas amplamente utilizadas como Pandas, NumPy e Matplotlib.
 
